@@ -10,6 +10,8 @@ namespace Spring.AOP.ConsoleTest
     {
         static void Main(string[] args)
         {
+
+            // test
         }
     }
 }
